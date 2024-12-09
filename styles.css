@@ -1,0 +1,48 @@
+h1 img{
+    width: 500px;
+    height: 250px;
+
+}
+header h1{
+    background-color:#32CD32;
+    color:#FF0000;
+}
+
+nav{
+        margin:10px 0px;
+        text-align: center;
+        }
+
+nav a {
+        text-decoration: none;
+        padding-right: 60px;
+        color:Green;
+        font-size:30px;
+}
+
+body{
+    background-color: #cc3b3b;
+}
+img{
+    width: 500px;
+    height: 250px;
+    }
+
+main p, main h1{
+    text-align:center;
+    color:#1e7a1e;
+    font-size:20px;
+}
+
+.zav{
+    color:#1e7a1e;
+    font-size:30px;
+}
+
+footer h1{
+    color:#1e7a1e;
+}
+
+footer{
+    text-align: center;
+}
